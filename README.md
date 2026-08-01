@@ -29,6 +29,9 @@ Breast Cancer Dataset (data.csv)
 - data.csv
 - breast_cancer_model.pkl
 - scaler.pkl
+## Author
+Gyanender Maurya
+GitHub: gyan88457-sheer 
 
 ## Author
 Gyan Maurya
